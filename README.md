@@ -2,6 +2,12 @@
 
 A macOS look for **Hyprland** (Lua config, 0.57+) and the **Dux Shell** (`dms`) desktop shell: Apple system colours, a menu bar with a bold app menu, Spotlight-style launcher, frosted blur, soft window shadows, macOS-like animations, and apps that follow light/dark mode.
 
+![Dark mode](docs/screenshot-dark.png)
+
+| Light mode | Spotlight |
+|---|---|
+| ![Light mode](docs/screenshot-light.png) | ![Spotlight launcher](docs/screenshot-spotlight.png) |
+
 ## What you get
 
 - **Dux Shell theme "macOS · Arch"**: Apple system palette for dark and light mode (`dms/themes/macos.json`)
