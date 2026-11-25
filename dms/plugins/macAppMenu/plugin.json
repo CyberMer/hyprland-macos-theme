@@ -1,0 +1,11 @@
+{
+  "id": "macAppMenu",
+  "name": "Mac App Menu",
+  "description": "macOS-style bold app name in the menu bar; click it for About, Hide, Quit, Force Quit and more.",
+  "version": "1.0.0",
+  "author": "CyberMer",
+  "icon": "apps",
+  "type": "widget",
+  "component": "./MacAppMenu.qml",
+  "permissions": ["process"]
+}
